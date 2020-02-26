@@ -1,0 +1,10 @@
+Clone	CompareTo	Contains	CopyTo	EndsWith
+Equals	GetEnumerator	GetHashCode	GetType	GetTypeCode
+IndexOf	IndexOfAny	Insert	IsNormalized	LastIndexOf
+LastIndexOfAny	Normalize	PadLeft	PadRight	Remove
+Replace	Split	StartsWith	Substring	ToBoolean
+ToByte	ToChar	ToCharArray	ToDateTime	ToDecimal
+ToDouble	ToInt16	ToInt32	ToInt64	ToLower
+ToLowerInvariant	ToSByte	ToSingle	ToString	ToType
+ToUInt16	ToUInt32	ToUInt64	ToUpper	ToUpperInvariant
+Trim	TrimEnd	TrimStart		
